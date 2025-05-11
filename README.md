@@ -1,21 +1,16 @@
-# 🌐 Trabalhos de Fundamentos de Processos Paralelos e Distribuídos
-Este repositório reúne trabalhos acadêmicos desenvolvidos em disciplinas relacionadas a **Redes de Computadores**.
+# 🌐 Trabalhos de FPPD
+Este repositório reúne trabalhos acadêmicos desenvolvidos em disciplinas relacionadas a **Fundamentos de Processamento Paralelo e Distribuído**.
 ---
 
 ## 📘Fundamentos de Redes de Computadores:
-### 📄 [T1 - Comparação entre protocolos UDP e TCP](/Fundamentos/T1/)
-- **Ferramentas**: C, Wireshark, comandos de *traffic control*
+### 📄 [T1 - Jantar dos Filósofos](/T1 - FSPD)
+- **Ferramentas**: C
 - **Descrição**: Implementação em C comparando os protocolos cliente/servidor UDP e TCP
-### 📄 [T2 - Simulação de Rede Local](/Fundamentos/T2/)
+### 📄 [T2 - Simulação de Rede Local](/T2 - FSPD)
 - **Ferramentas**: GNS3
 - **Descrição**: Criação de uma topologia de rede simulada com roteadores interconectados por backbone.
-### 📄 [TF - Man in the Middle (MITM)](/Fundamentos/TF/)
+### 📄 [TF - Man in the Middle (MITM)](/T3 - FSPD)
 - **Ferramentas**: C, HTML, Wireshark, comandos de *arpspoof*
 - **Descrição**: Demonstração de interceptação de pacotes em uma rede local (ataque Man in the Middle).
 ---
 
-## 📕 Redes de Computadores Avançadas:
-### 📄 [T1 - Qualidade de Serviço (Qos) em transmissões RTP](/Avançadas/T1/)
-- **Ferramentas** : Python, comandos de *traffic control*
-- **Descrição**: Aplicação de técnicas de QoS em transmissões de áudio/vídeo via pacotes RTP.
----
