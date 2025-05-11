@@ -3,13 +3,13 @@ Este repositório reúne trabalhos acadêmicos desenvolvidos em disciplinas rela
 ---
 
 ## 📘Fundamentos de Redes de Computadores:
-### 📄 [T1 - Jantar dos Filósofos](/T1 - FSPD)
+### 📄 [T1 - Jantar dos Filósofos](/T1 - FSPD/)
 - **Ferramentas**: C
 - **Descrição**: Implementação em C comparando os protocolos cliente/servidor UDP e TCP
-### 📄 [T2 - Simulação de Rede Local](/T2 - FSPD)
+### 📄 [T2 - Simulação de Rede Local](/T2 - FSPD/)
 - **Ferramentas**: GNS3
 - **Descrição**: Criação de uma topologia de rede simulada com roteadores interconectados por backbone.
-### 📄 [TF - Man in the Middle (MITM)](/T3 - FSPD)
+### 📄 [TF - Man in the Middle (MITM)](/T3 - FSPD/)
 - **Ferramentas**: C, HTML, Wireshark, comandos de *arpspoof*
 - **Descrição**: Demonstração de interceptação de pacotes em uma rede local (ataque Man in the Middle).
 ---
