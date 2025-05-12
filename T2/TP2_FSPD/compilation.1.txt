@@ -1,0 +1,9 @@
+
+rpcgen banco.x
+
+gcc banco_svc.c banco_xdr.c banco_server.c -o server
+
+gcc banco_client_agencia.c banco_xdr.c banco_clnt.c -o agencia
+
+gcc banco_client_caixa.c banco_xdr.c banco_clnt.c -o caixa
+
