@@ -3,7 +3,7 @@ Este repositório reúne trabalhos acadêmicos desenvolvidos em disciplinas rela
 ---
 
 ## 📘Fundamentos de Redes de Computadores:
-### 📄 [T1 - Jantar dos Filósofos](/.TP1 - FSPD)
+### 📄 [T1 - Jantar dos Filósofos](/main/TP1-FSPD)
 - **Ferramentas**: C
 - **Descrição**: Implementação em C comparando os protocolos cliente/servidor UDP e TCP
 ### 📄 [T2 - Simulação de Rede Local](/T2 - FSPD/)
